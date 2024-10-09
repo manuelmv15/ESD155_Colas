@@ -12,3 +12,4 @@
 /home/manuel/Documentos/estructura/computo3/colas/obj/Debug/net8.0/colas.pdb
 /home/manuel/Documentos/estructura/computo3/colas/obj/Debug/net8.0/colas.genruntimeconfig.cache
 /home/manuel/Documentos/estructura/computo3/colas/obj/Debug/net8.0/ref/colas.dll
+/home/manuel/Documentos/estructura/computo3/colas/obj/Debug/net8.0/colas.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("colas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+387f671048bdc12cfd3a55c4d2bcf913c62239cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("colas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("colas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

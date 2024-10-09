@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("hola");
+          Cola<int> miCola = new Cola<int>();
+            miCola.Encolar(1);
+            miCola.Encolar(2);
+            miCola.Encolar(3);
+
+            Console.WriteLine("ELemento en la cola");
+            miCola.Mostrar();
+
+            miCola.acceder(1);
+
+            miCola.Desencolar();
+
+            miCola.Mostrar();   
         }
     }
 }
